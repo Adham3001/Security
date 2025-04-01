@@ -2,7 +2,7 @@
     {
         "OWNER": "Adham",
         "EMAIL": "adham@gmail.com",
-        "ACCESS": ${Akses},
+        "ACCESS": false,
         "USERNAME": "Adham1",
         "PASSWORD": "Adham2"
     }
