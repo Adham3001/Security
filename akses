@@ -1,8 +1,10 @@
+const Akses = `true`;
+
 [
     {
         "OWNER": "Adham",
         "EMAIL": "adham@gmail.com",
-        "ACCESS": false,
+        "ACCESS": ${Akses},
         "USERNAME": "Adham1",
         "PASSWORD": "Adham2"
     }
