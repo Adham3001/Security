@@ -2,7 +2,7 @@
     {
         "OWNER": "Adham",
         "EMAIL": "adham@gmail.com",
-        "ACCESS": false,
+        "ACCESS": true,
         "USERNAME": "Adham1",
         "PASSWORD": "Adham2",
         "EXPIRED": "2-10-2025"
