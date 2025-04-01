@@ -4,6 +4,7 @@
         "EMAIL": "adham@gmail.com",
         "ACCESS": true,
         "USERNAME": "Adham1",
-        "PASSWORD": "Adham2"
+        "PASSWORD": "Adham2",
+        "EXPIRED": "12-02-2025"
     }
 ]
